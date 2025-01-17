@@ -1,0 +1,27 @@
+.content-bg{
+    background-color: #f4f6f9; 
+    background-image: url('../images/background.webp'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+nav.main-header{
+    background-color: #ed1c24;
+}
+
+.breadcrumb-item a {
+    color: #ed1c24;
+}
+
+.breadcrumb-item active{
+    color: #ed1c24;
+}
+
+a.brand-link{
+    background-color: #ed1c24;
+}
+
+.main-footer{
+    background-color: #000000;
+    margin-left:250px !important;
+}
