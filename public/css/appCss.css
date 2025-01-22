@@ -9,7 +9,9 @@ body, html {
     background-size: cover; 
     background-repeat: no-repeat;
 }
-
+.m-0{
+    backdrop-filter: blur(5px);
+}
 nav.main-header{
     background-color: #ed1c24;
 }

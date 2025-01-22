@@ -24,55 +24,55 @@
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-chart-line"></i>
+                        <i class="nav-icon fas fa-circle-exclamation"></i>
                         <p>Notice of Assesment</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-key"></i>
+                        <i class="nav-icon fas fa-envelopes-bulk"></i>
                         <p>Payment System</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#trackingModal">
-                        <i class="nav-icon fas fa-map-marker-alt"></i>
+                        <i class="nav-icon fas fa-money-bill-transfer"></i>
                         <p>Tax Deposit</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#reportModal">
-                        <i class="nav-icon fas fa-file-alt"></i>
+                        <i class="nav-icon fas fa-file-invoice"></i>
                         <p>Tax Clearance</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#printingModal">
-                        <i class="nav-icon fas fa-print"></i>
+                        <i class="nav-icon fas fa-sack-xmark"></i>
                         <p>Delinquency</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-check-circle"></i>
+                        <i class="nav-icon fas fa-chart-line"></i>
                         <p>Reports</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
-                        <i class="nav-icon fas fa-envelope"></i>
+                        <i class="nav-icon fas fa-receipt"></i>
                         <p>OR manager</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
-                        <i class="nav-icon fas fa-envelope"></i>
+                        <i class="nav-icon fas fa-credit-card"></i>
                         <p>Online Payment</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
-                        <i class="nav-icon fas fa-envelope"></i>
+                        <i class="nav-icon fas fa-chart-simple"></i>
                         <p>Online Payment Report</p>
                     </a>
                 </li>
