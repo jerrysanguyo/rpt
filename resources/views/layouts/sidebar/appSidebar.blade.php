@@ -25,43 +25,61 @@
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-chart-line"></i>
-                        <p>Transaction Dashboard</p>
+                        <p>Notice of Assesment</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-key"></i>
-                        <p>PIN</p>
+                        <p>Payment System</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#trackingModal">
                         <i class="nav-icon fas fa-map-marker-alt"></i>
-                        <p>Tracking</p>
+                        <p>Tax Deposit</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#reportModal">
                         <i class="nav-icon fas fa-file-alt"></i>
-                        <p>Report</p>
+                        <p>Tax Clearance</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#printingModal">
                         <i class="nav-icon fas fa-print"></i>
-                        <p>Printing</p>
+                        <p>Delinquency</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-check-circle"></i>
-                        <p>Validation</p>
+                        <p>Reports</p>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
                         <i class="nav-icon fas fa-envelope"></i>
-                        <p>Messages</p>
+                        <p>OR manager</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
+                        <i class="nav-icon fas fa-envelope"></i>
+                        <p>Online Payment</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
+                        <i class="nav-icon fas fa-envelope"></i>
+                        <p>Online Payment Report</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-toggle="modal" data-target="#messageModal">
+                        <i class="nav-icon fas fa-envelope"></i>
+                        <p>Message</p>
                     </a>
                 </li>
             </ul>
