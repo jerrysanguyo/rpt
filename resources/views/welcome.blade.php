@@ -2,6 +2,8 @@
 
 @section('content')
 
+@section(section: 'login')
+
 <!-- BOX -->
 <div class="row">
     <div class="col-lg-3 col-6">
