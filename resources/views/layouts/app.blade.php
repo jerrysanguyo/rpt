@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>
+    <img src="{{ asset('images/CL.webp') }}" alt="City logo" class="brand-image img-circle elevation-3">
+    RPT</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <!-- Include AdminLTE CSS -->
     <link rel="stylesheet" href="{{ asset('vendor/adminlte/dist/css/adminlte.min.css') }}">
@@ -12,7 +14,7 @@
     <!-- Fontawesome -->
     <script src="https://kit.fontawesome.com/4f2d7302b1.js" crossorigin="anonymous"></script>
     <!-- External CSS -->
-    <link rel="stylesheet" href="{{ asseft('css/appCss.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/appCss.css') }}">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">

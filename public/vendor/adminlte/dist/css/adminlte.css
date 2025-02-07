@@ -8126,6 +8126,8 @@ button.bg-dark:focus {
   z-index: 1030;
 }
 
+
+
 @supports ((position: -webkit-sticky) or (position: sticky)) {
   .sticky-top {
     position: -webkit-sticky;
@@ -53008,5 +53010,36 @@ a.text-muted:hover {
 
 .dark-mode .border-dark {
   border-color: #4b545c !important;
+}
+.login-page {
+  background-image: url('../images/background.webp');
+  background-size: cover;
+  backdrop-filter: blur(2px);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box {
+  float: right;
+  width: 400px;
+  margin: 7% auto;
+  box-shadow: 1px 5px  5px rgba(0, 0, 0, 0.5);
+}
+.login-logo img {
+ width: 100px;
+ height: 100px;
+}
+.login-footer{
+  background-color: black;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  border-top: 1px solid white;
+}
+.login-footer strong{
+  font-size: 15px;
 }
 /*# sourceMappingURL=adminlte.css.map */

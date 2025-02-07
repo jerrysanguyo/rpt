@@ -10,27 +10,8 @@
     <script src="https://kit.fontawesome.com/4f2d7302b1.js" crossorigin="anonymous"></script>
     <!-- External CSS -->
     <link rel="stylesheet" href="{{ asset('css/appCss.css') }}">
-    <style>
-        body {
-            background-image: url("{{ asset('images/background.webp') }}");
-            background-size: cover;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .login-box {
-            width: 400px;
-            margin: 7% auto;
-            box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
-        }
-        .login-logo img {
-            width: 100px;
-            height: 100px;
-        }
-    </style>
 </head>
-<body class="hold-transition login-page">
+<body class="login-page content-bg">
     <div class="login-box">
         <div class="login-logo">
             <img src="{{ asset('images/CL.webp') }}" alt="Logo">
@@ -67,9 +48,9 @@
                             </div>
                         </div>
                         <!-- /.col -->
-                        <div class="col-4">
-                            <button type="submit" class="btn btn-primary btn-block">Sign In</button>
-                        </div>
+                            <div class="col-4 ">
+                                <button type="submit" class="btn btn-primary btn-block" >Sign In</a></button>
+                            </div>
                         <!-- /.col -->
                     </div>
                 </form>
@@ -82,7 +63,11 @@
     </div>
     
     <!-- /.login-box -->
-
+    <!-- footer -->
+    <footer class="login-footer text-white p-3">
+            <strong>Copyright © 2025 Information technology - City of Taguig .</strong> All right reserved.
+    </footer>
     <script src="{{ asset('vendor/adminlte/dist/js/adminlte.min.js') }}"></script>
+
 </body>
 </html>
